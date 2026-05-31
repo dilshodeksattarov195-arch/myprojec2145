@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseuetch",
+        "uuid": 19390800,
+        "checksum": "r7d6y"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
